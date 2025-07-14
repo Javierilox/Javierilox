@@ -2,7 +2,7 @@
 
 🎓 Ingeniero en Informática titulado de DUOC UC con experiencia como **Analista TI**, **Programador Full Stack** y **Soporte Técnico**. Apasionado por la automatización, la mejora continua y la creación de soluciones eficientes.
 
-Actualmente trabajo en el desarrollo de sistemas, administración de bases de datos y automatización de procesos usando tecnologías como **Python**, **SQL**, **JavaScript**, y herramientas como **Git**, **Django** y **Power BI**.
+Actualmente trabajo en el desarrollo de sistemas, administración de bases de datos y automatización de procesos usando tecnologías como **Python**, **PHP**, **SQL**, y herramientas como **Django**, **Power BI**, y **Git**.
 
 ---
 
@@ -12,9 +12,13 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Desarrollo Web (Frontend)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Frameworks y Librerías  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -25,12 +29,12 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-### ☁️ DevOps / APIs  
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)  
+### ☁️ DevOps / Control de Versiones / APIs  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
-### 📊 BI & Data  
+### 📊 Análisis de Datos y BI  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -61,7 +65,7 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 
 ## 📊 Estadísticas GitHub
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierilox&show_icons=true&theme=default)
+![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javierilox&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javierilox&layout=compact)
 
 ---
@@ -75,4 +79,5 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 ---
 
 > 🚀 Siempre en búsqueda de nuevos desafíos para seguir aprendiendo y aportando soluciones innovadoras.
+
 
