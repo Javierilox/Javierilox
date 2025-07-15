@@ -46,17 +46,17 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 
 ## 💼 Experiencia Destacada
 
-### 👨‍💻 Activa Research — Analista TI (2023 - 2025)
+### 👨‍💻 Activa Research — Analista TI (abr 2023 - feb 2025)
 - Automatización y mejoras en la gestión de estudios.
 - Administración y optimización de bases de datos para mailing masivo.
 - Integración de encuestas IVR y desarrollo de cuestionarios personalizados.
 
-### 🖥️ Carozzi — Soporte TI (Práctica Profesional, 2022 - 2023)
+### 🖥️ Carozzi — Soporte TI (dic 2022 - feb 2023)
 - Instalación de sistemas operativos y soporte técnico al usuario.
 - Gestión de tickets y atención a clientes internos.
 - Organización de tareas para mejorar la productividad del equipo.
 
-### 🧑‍💻 CIDEF — Programador Full Stack (Práctica Laboral, 2021)
+### 🧑‍💻 CIDEF — Programador Full Stack (ene 2021 - feb 2021)
 - Desarrollo de aplicación interna con Django.
 - Gestión de documentación técnica y de bases de datos.
 - Participación en reuniones estratégicas de desarrollo.
