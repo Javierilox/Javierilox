@@ -1,8 +1,16 @@
 # 👋 ¡Hola! Soy Javier Orellana Santander
 
-🎓 Ingeniero en Informática titulado de DUOC UC con experiencia como **Analista TI**, **Programador Full Stack** y **Soporte Técnico**. Apasionado por la automatización, la mejora continua y la creación de soluciones eficientes.
+🎓 **Ingeniero en Informática** titulado de DUOC UC, apasionado por la automatización, la mejora continua y la creación de soluciones eficientes. Actualmente me encuentro expandiendo mis habilidades de desarrollo en la academia **Desafío Latam**.
 
-Actualmente trabajo en el desarrollo de sistemas, administración de bases de datos y automatización de procesos usando tecnologías como **Python**, **PHP**, **SQL**, y herramientas como **Django**, **Power BI**, y **Git**.
+---
+
+## 🧑‍💻 Sobre Mí
+* **¿Quién soy?:** Un profesional de la informática enfocado en optimizar procesos a través del código.
+* **¿De dónde soy?:** Santiago, Chile.
+* **¿A qué te dedicas?:** Trabajo activamente en el desarrollo de sistemas, administración de bases de datos y automatización de procesos.
+* **¿Cuál es tu formación?:** Ingeniería en Informática.
+* **¿Por qué deberían contactarme?:** Cuento con un background sólido combinando el análisis TI, soporte técnico y desarrollo Full Stack. Aporto valor mediante la resolución metódica de problemas y la rápida integración a nuevos stacks tecnológicos.
+* **¿Cómo contactarme?:** Directamente a mi correo `javier.orellana2001@gmail.com` o a través de mi red de LinkedIn.
 
 ---
 
@@ -38,29 +46,6 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🧪 Metodologías  
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)  
-![Kanban](https://img.shields.io/badge/Kanban-007ACC?style=for-the-badge&logo=trello&logoColor=white)
-
----
-
-## 💼 Experiencia Destacada
-
-### 👨‍💻 Activa Research — Analista TI (abr 2023 - feb 2025)
-- Automatización y mejoras en la gestión de estudios.
-- Administración y optimización de bases de datos para mailing masivo.
-- Integración de encuestas IVR y desarrollo de cuestionarios personalizados.
-
-### 🖥️ Carozzi — Soporte TI (dic 2022 - feb 2023)
-- Instalación de sistemas operativos y soporte técnico al usuario.
-- Gestión de tickets y atención a clientes internos.
-- Organización de tareas para mejorar la productividad del equipo.
-
-### 🧑‍💻 CIDEF — Programador Full Stack (ene 2021 - feb 2021)
-- Desarrollo de aplicación interna con Django.
-- Gestión de documentación técnica y de bases de datos.
-- Participación en reuniones estratégicas de desarrollo.
-
 ---
 
 ## 📊 Estadísticas GitHub
@@ -75,9 +60,3 @@ Actualmente trabajo en el desarrollo de sistemas, administración de bases de da
 - 📧 Email: javier.orellana2001@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/javier-ignacio-orellana-santander](https://www.linkedin.com/in/javier-ignacio-orellana-santander)  
 - 🖥️ GitHub: [github.com/Javierilox](https://github.com/Javierilox)
-
----
-
-> 🚀 Siempre en búsqueda de nuevos desafíos para seguir aprendiendo y aportando soluciones innovadoras.
-
-
